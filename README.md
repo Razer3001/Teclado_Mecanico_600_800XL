@@ -11,6 +11,8 @@ Teclado basado en proyecto Helena y Proyecto Teclado MEcanico 65xe
   https://www.facebook.com/share/p/1C1n2ejnPB/
 
 
+Se dejan a disposicion proyecto en autodesk Fusion, Stl e imagenes, para quien desee mejorar o simplemente contruir y probar.
+
 
 Materiales.
 * Interruptor Smd RedDRAGON x 100 UN.
