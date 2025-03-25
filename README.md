@@ -2,6 +2,17 @@
 
 Teclado Mecanico para 600/ 800 Xl, en impresion 3D.
 
+Teclado basado en proyecto Helena y Proyecto Teclado MEcanico 65xe
+
+* proyecto Helena para 800Xl
+  https://github.com/ivop/project-helena
+
+* Proyecto Teclado Mecanico 65xe.
+  https://www.facebook.com/share/p/1C1n2ejnPB/
+
+
+
+Materiales.
 * Interruptor Smd RedDRAGON x 100 UN.
 https://es.aliexpress.com/item/1005006910211198.html?spm=a2g0o.cart.0.0.63a17a9dYteW7l&mp=1&pdp_npi=5%40dis%21CLP%21CLP+27210%21CLP+13604%21%21%21%21%21%402101c5ac17404111579318003e1f07%2112000038696973291%21ct%21CL%21776603513%21%211%210&gatewayAdapt=glo2esp&fbclid=IwY2xjawJP2Y9leHRuA2FlbQIxMAABHTr1tOC_PAXuL2Ap6CmMDBGQYXgreXhjV6hFq1Iv1zcfb4tY1gord1QDug_aem_bH4xPPegSYFVP2_W9TwU5w
 
