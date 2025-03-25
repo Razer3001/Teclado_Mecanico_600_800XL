@@ -1,14 +1,19 @@
+
+<h3><b>Teclado Mecanico para 600/ 800 XL, en impresion 3D.</b></h3>
+
 ![Teclado](https://github.com/user-attachments/assets/0c05696e-a2ad-4915-aeda-3e0ede9c0968)
 
 
-Teclado
+
+<b>Teclado Real</b>
+
+
 ![image](https://github.com/user-attachments/assets/aa8f38e2-613e-4e45-8f0d-78bc027ebb1b)
 
-Matriz
+<b>Matriz</b>
+
 ![image](https://github.com/user-attachments/assets/6ca4b529-0b18-4a1b-8492-b18ae1b2b871)
 
-
-Teclado Mecanico para 600/ 800 Xl, en impresion 3D.
 
 Teclado basado en proyecto Helena y Proyecto Teclado MEcanico 65xe
 
